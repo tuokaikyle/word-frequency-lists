@@ -1,0 +1,1001 @@
+rank	word	occurrences (ppm)	lemma forms
+1.	que	32894	que
+2.	de	32116	de
+3.	no	29897	no
+4.	a	22313	a
+5.	la	21127	la
+6.	el	18112	el
+7.	es	16620	ser
+8.	y	15743	y
+9.	en	15303	en
+10.	lo	14010	lo
+11.	un	13410	un
+12.	por	10261	por
+13.	qué	9903	qué
+14.	me	9692	me
+15.	una	8656	un
+16.	te	8094	te
+17.	los	7589	lo
+18.	se	7426	se
+19.	con	6799	con
+20.	para	6455	para
+21.	mi	5987	mi
+22.	está	5909	estar
+23.	si	5880	si
+24.	bien	5293	bien
+25.	pero	5012	pero
+26.	yo	4800	yo
+27.	eso	4788	eso
+28.	las	4748	la
+29.	sí	4704	sí
+30.	su	4549	su
+31.	tu	4194	tu
+32.	aquí	3952	aquí
+33.	del	3911	del
+34.	al	3887	al
+35.	como	3760	como
+36.	le	3470	le
+37.	más	3395	más
+38.	esto	3152	esto
+39.	ya	2944	ya
+40.	todo	2929	todo
+41.	esta	2927	esta
+42.	vamos	2830	ir
+43.	muy	2618	muy
+44.	hay	2584	haber
+45.	ahora	2523	ahora
+46.	algo	2469	algo
+47.	estoy	2454	estar
+48.	tengo	2349	tener
+49.	nos	2247	nos
+50.	tú	2232	tú
+51.	nada	2122	nada
+52.	cuando	2098	cuando
+53.	ha	2079	haber
+54.	este	2069	este
+55.	sé	2066	saber
+56.	estás	2045	estar
+57.	así	2044	así
+58.	puedo	1972	poder
+59.	cómo	1969	cómo
+60.	quiero	1940	querer
+61.	sólo	1933	sólo
+62.	soy	1913	ser
+63.	tiene	1908	tener
+64.	gracias	1886	gracias
+65.	o	1850	o
+66.	él	1836	él
+67.	bueno	1824	bueno
+68.	fue	1811	ser ir
+69.	ser	1782	ser
+70.	hacer	1749	hacer
+71.	son	1703	ser
+72.	todos	1687	todo
+73.	era	1677	ser
+74.	eres	1677	ser
+75.	vez	1652	vez
+76.	tienes	1636	tener
+77.	creo	1584	creer
+78.	ella	1570	ella
+79.	he	1570	haber
+80.	ese	1508	ese
+81.	voy	1478	ir
+82.	puede	1433	poder
+83.	sabes	1422	saber
+84.	hola	1393	hola
+85.	sus	1384	su
+86.	porque	1362	porque
+87.	dios	1356	dios
+88.	quién	1351	quién
+89.	nunca	1342	nunca
+90.	dónde	1335	dónde
+91.	quieres	1331	querer
+92.	casa	1330	casa casar
+93.	favor	1313	favor
+94.	esa	1306	ese
+95.	dos	1301	dos
+96.	tan	1291	tanto
+97.	señor	1289	señor
+98.	tiempo	1288	tiempo
+99.	verdad	1269	verdad
+100.	estaba	1250	estar
+101.	mejor	1234	mejor
+102.	están	1232	estar
+103.	va	1219	ir
+104.	hombre	1219	hombre
+105.	usted	1218	usted
+106.	mucho	1208	mucho
+107.	hace	1195	hacer
+108.	entonces	1194	entonces
+109.	siento	1186	sentir sentar
+110.	tenemos	1177	tener
+111.	puedes	1134	poder
+112.	ahí	1126	ahí
+113.	ti	1103	ti
+114.	vida	1101	vida
+115.	ver	1097	ver
+116.	alguien	1046	alguien
+117.	sr	1040	señor
+118.	hasta	1032	hasta
+119.	sin	1029	sin
+120.	mí	1022	mí
+121.	solo	1013	solo
+122.	años	1003	año
+123.	sobre	996	sobre
+124.	decir	995	decir
+125.	uno	993	uno
+126.	siempre	986	siempre
+127.	oh	985	oh
+128.	ir	964	ir
+129.	cosas	962	cosa coser
+130.	también	962	también
+131.	antes	955	antes
+132.	has	942	haber
+133.	ni	941	ni
+134.	mis	937	mi
+135.	día	917	día
+136.	estar	907	estar
+137.	estamos	906	estar
+138.	noche	868	noche
+139.	nadie	865	nadie
+140.	otra	857	otro
+141.	quiere	855	querer
+142.	parece	851	parecer
+143.	nosotros	847	nosotros
+144.	poco	844	poco
+145.	padre	833	padre
+146.	trabajo	828	trabajo trabajar
+147.	gente	827	gente
+148.	mira	825	mirar
+149.	vas	817	ir
+150.	sea	814	ser
+151.	les	806	les
+152.	donde	806	donde
+153.	mismo	796	mismo
+154.	hecho	795	hacer hecho
+155.	ellos	792	ellos
+156.	dijo	770	decir
+157.	pasa	751	pasar
+158.	dinero	740	dinero
+159.	hijo	728	hijo
+160.	tal	724	tal
+161.	otro	710	otro
+162.	hablar	706	hablar
+163.	seguro	704	seguro
+164.	claro	699	claro
+165.	estas	685	este
+166.	lugar	684	lugar
+167.	mundo	683	mundo
+168.	amigo	678	amigo
+169.	espera	674	esperar espera
+170.	mierda	673	mierda
+171.	han	673	haber
+172.	tus	670	tu
+173.	sabe	669	saber
+174.	después	661	después
+175.	momento	656	momento
+176.	desde	653	desde
+177.	fuera	650	fuera ir ser
+178.	cosa	648	cosa coser
+179.	tipo	647	tipo
+180.	mañana	646	mañana
+181.	podemos	623	poder
+182.	dije	617	decir
+183.	gran	608	grande
+184.	necesito	607	necesitar
+185.	estado	597	estar estado
+186.	podría	591	poder
+187.	acuerdo	591	acordar acuerdo
+188.	papá	587	papá
+189.	tener	583	tener
+190.	dice	583	decir
+191.	mío	581	mío
+192.	crees	580	creer
+193.	buena	578	bueno buena
+194.	gusta	573	gustar
+195.	nuestro	573	nuestro
+196.	nuevo	572	nuevo
+197.	será	570	ser
+198.	haciendo	568	hacer
+199.	días	566	día
+200.	nombre	565	nombre
+201.	buen	565	bueno
+202.	había	564	haber
+203.	ven	564	ver venir
+204.	tres	562	tres
+205.	menos	560	menos
+206.	debe	560	deber
+207.	tenía	555	tener
+208.	mal	553	mal
+209.	conmigo	551	conmigo
+210.	madre	549	madre
+211.	hoy	548	hoy
+212.	quien	547	quien
+213.	sido	534	ser
+214.	mamá	530	mamá
+215.	tienen	529	tener
+216.	luego	519	luego
+217.	todas	516	todo
+218.	allí	507	allí
+219.	toda	502	todo
+220.	hora	498	hora
+221.	mujer	495	mujer
+222.	visto	490	ver
+223.	haces	490	hacer
+224.	importa	487	importar
+225.	contigo	486	contigo
+226.	ve	481	ver ir
+227.	tarde	480	tarde tardar
+228.	oye	480	oír
+229.	parte	479	partir parte
+230.	haber	477	haber
+231.	hombres	477	hombre
+232.	problema	470	problema
+233.	mas	469	mas
+234.	saber	465	saber
+235.	quería	463	querer
+236.	aún	461	aún
+237.	veces	460	vez
+238.	nuestra	458	nuestro
+239.	hacerlo	454	hacer
+240.	cada	449	cada
+241.	hizo	440	hacer
+242.	veo	439	ver
+243.	tanto	438	tanto
+244.	razón	437	razón
+245.	ustedes	437	usted
+246.	idea	432	idea
+247.	esos	426	eso
+248.	van	424	ir
+249.	quizá	422	quizá
+250.	debo	421	deber
+251.	alguna	420	alguno
+252.	cierto	419	cierto
+253.	ud	414	usted
+254.	muerto	413	muerto morir
+255.	unos	410	un
+256.	estos	408	este
+257.	salir	407	salir
+258.	policía	407	policía
+259.	realmente	402	realmente
+260.	demasiado	402	demasiado
+261.	familia	399	familia
+262.	pueden	396	poder
+263.	cabeza	396	cabeza
+264.	hemos	391	haber
+265.	amigos	386	amigo
+266.	chica	383	chico chica
+267.	cariño	382	cariño
+268.	lado	382	lado
+269.	allá	380	allá
+270.	entre	379	entre
+271.	minutos	379	minuto
+272.	digo	378	decir
+273.	algún	378	algún
+274.	serio	375	serio
+275.	cuidado	372	cuidar cuidado
+276.	pasó	371	pasar
+277.	buenas	370	bueno
+278.	somos	369	ser
+279.	amor	369	amor
+280.	puerta	364	puerta
+281.	ves	363	ver
+282.	vaya	363	ir
+283.	ah	363	ah
+284.	suerte	358	suerte
+285.	eh	357	eh
+286.	rápido	357	rápido
+287.	cuenta	354	contar cuenta
+288.	quizás	352	quizás
+289.	esas	349	ese
+290.	pues	348	pues
+291.	pasado	344	pasar pasado
+292.	pensé	344	pensar
+293.	todavía	340	todavía
+294.	hermano	340	hermano
+295.	debes	338	deber
+296.	casi	338	casi
+297.	forma	337	forma
+298.	aqui	336	aquí
+299.	chico	335	chico
+300.	ok	334	ok
+301.	dicho	333	decir dicho
+302.	nueva	332	nuevo nueva
+303.	sabía	332	saber
+304.	muchas	332	mucho
+305.	dentro	331	dentro
+306.	hice	330	hacer
+307.	contra	329	contra
+308.	auto	327	auto
+309.	camino	325	camino caminar
+310.	ayuda	325	ayuda ayudar
+311.	primera	325	primero primera
+312.	hacia	324	hacia
+313.	vi	324	ver
+314.	miedo	324	miedo
+315.	adiós	322	adiós
+316.	primero	322	primero
+317.	debería	321	deber
+318.	poder	318	poder
+319.	niños	316	niño
+320.	sería	316	ser
+321.	historia	316	historia
+322.	hey	315	hey
+323.	mientras	314	mientras
+324.	ciudad	313	ciudad
+325.	dijiste	313	decir
+326.	espero	310	esperar
+327.	cuánto	309	cuánto
+328.	esposa	309	esposa esposar
+329.	pronto	308	pronto
+330.	chicos	307	chico
+331.	cualquier	307	cualquier
+332.	viejo	307	viejo
+333.	debemos	307	deber
+334.	deja	306	dejar
+335.	año	305	año
+336.	muerte	304	muerte
+337.	hablando	304	hablar
+338.	manos	304	mano
+339.	da	304	dar
+340.	loco	303	loco
+341.	problemas	300	problema
+342.	mano	299	mano
+343.	guerra	298	guerra
+344.	semana	296	semana
+345.	pasar	295	pasar
+346.	vale	294	valer vale
+347.	cuál	292	cuál
+348.	viene	292	venir
+349.	volver	288	volver
+350.	toma	288	tomar
+351.	caso	288	caso casar
+352.	agua	287	agua
+353.	haré	287	hacer
+354.	vete	286	ir
+355.	entiendo	286	entender
+356.	horas	286	hora
+357.	personas	285	persona
+358.	capitán	284	capitán
+359.	adelante	283	adelante
+360.	niño	282	niño
+361.	listo	282	listo
+362.	noches	280	noche
+363.	buenos	279	bueno
+364.	iba	279	ir
+365.	juntos	279	junto
+366.	dame	276	dar
+367.	único	276	único
+368.	déjame	276	dejar
+369.	cerca	276	cerca cercar
+370.	otros	275	otro
+371.	sigue	275	seguir
+372.	grande	275	grande
+373.	arriba	274	arriba
+374.	jefe	274	jefe
+375.	habla	273	hablar habla
+376.	supongo	271	suponer
+377.	manera	271	manera
+378.	quieren	270	querer
+379.	feliz	270	feliz
+380.	significa	269	significar
+381.	sangre	269	sangre
+382.	fin	268	fin
+383.	bajo	268	bajar bajo
+384.	llama	267	llamar llama
+385.	venir	266	venir
+386.	morir	265	morir
+387.	importante	264	importante
+388.	hiciste	264	hacer
+389.	ojos	264	ojo
+390.	escucha	263	escuchar
+391.	entrar	261	entrar
+392.	ningún	260	ninguno
+393.	corazón	260	corazón
+394.	diablos	259	diablo
+395.	necesitamos	259	necesitar
+396.	atrás	259	atrás
+397.	durante	258	durante
+398.	dices	258	decir
+399.	nuestros	257	nuestro
+400.	persona	257	persona
+401.	abajo	256	abajo
+402.	dr	255	doctor
+403.	hija	255	hija
+404.	dejar	254	dejar
+405.	necesita	254	necesitar
+406.	llegar	254	llegar
+407.	hago	253	hacer
+408.	señora	252	señora
+409.	haya	250	haber haya
+410.	suficiente	249	suficiente
+411.	doctor	249	doctor
+412.	gustaría	248	gustar
+413.	tierra	247	tierra
+414.	cara	247	cara
+415.	siquiera	247	siquiera
+416.	genial	246	genial
+417.	cree	246	creer
+418.	supuesto	244	suponer
+419.	tomar	243	tomar
+420.	equipo	242	equipo equipar
+421.	justo	242	justo
+422.	juego	242	juego jugar
+423.	ninguna	240	ninguno
+424.	matar	240	matar
+425.	cinco	238	cinco
+426.	dicen	237	decir
+427.	amo	237	amo amar
+428.	cuándo	236	cuándo
+429.	pequeño	235	pequeño
+430.	algunos	234	alguno
+431.	conozco	233	conocer
+432.	clase	233	clase
+433.	maldito	231	maldito
+434.	unas	231	un
+435.	muchos	231	mucho
+436.	hubiera	230	haber
+437.	segundo	230	segundo
+438.	aunque	229	aunque
+439.	pueda	229	poder
+440.	dime	229	decir
+441.	igual	229	igual
+442.	comida	229	comida comer
+443.	ay	228	ay
+444.	cuerpo	228	cuerpo
+445.	encontrar	228	encontrar
+446.	fuerte	227	fuerte
+447.	vuelta	227	vuelta volver
+448.	venga	226	venir
+449.	creer	225	creer
+450.	realidad	224	realidad
+451.	saben	222	saber
+452.	puta	222	puta
+453.	deberías	219	deber
+454.	pregunta	219	pregunta preguntar
+455.	fui	219	ir ser
+456.	cuatro	218	cuatro
+457.	sra	218	señora
+458.	primer	217	primero
+459.	trabajar	217	trabajar
+460.	e	217	y
+461.	hagas	216	hacer
+462.	alto	216	alto
+463.	maldita	216	maldito
+464.	comer	215	comer
+465.	número	215	número
+466.	dar	215	dar
+467.	necesitas	215	necesitar
+468.	oportunidad	215	oportunidad
+469.	punto	213	punto
+470.	misma	213	mismo
+471.	última	213	último
+472.	afuera	213	afuera
+473.	mujeres	212	mujer
+474.	pensar	212	pensar
+475.	fueron	212	ir ser
+476.	difícil	211	difícil
+477.	vivir	210	vivir
+478.	paso	210	paso pasar
+479.	malo	209	malo
+480.	estabas	208	estar
+481.	vivo	207	vivir vivo
+482.	haga	206	hacer
+483.	queda	206	quedar
+484.	hijos	205	hijo
+485.	mayor	205	mayor
+486.	fiesta	205	fiesta
+487.	hacen	205	hacer
+488.	medio	205	medio
+489.	algunas	204	alguno
+490.	basta	204	bastar
+491.	arma	202	arma armar
+492.	vino	202	venir vino
+493.	meses	201	mes
+494.	cuarto	201	cuarto
+495.	éste	201	este
+496.	escuela	201	escuela
+497.	esté	200	estar
+498.	dólares	200	dólar
+499.	tío	198	tío
+500.	posible	198	posible
+501.	tuve	198	tener
+502.	fácil	198	fácil
+503.	preocupes	198	preocupar
+504.	luz	196	luz
+505.	eran	196	ser
+506.	carajo	196	carajo
+507.	final	196	final
+508.	lista	195	lista listo
+509.	trata	195	tratar
+510.	armas	195	arma armar
+511.	hermana	194	hermana
+512.	exactamente	194	exactamente
+513.	chicas	193	chica
+514.	podía	193	poder
+515.	bastante	193	bastante
+516.	seguridad	193	seguridad
+517.	pasando	193	pasar
+518.	esperando	193	esperar
+519.	acá	192	acá
+520.	teléfono	192	teléfono
+521.	perro	192	perro
+522.	fuego	192	fuego
+523.	murió	191	morir
+524.	tampoco	191	tampoco
+525.	sola	190	solo
+526.	estuvo	189	estar
+527.	verte	189	ver
+528.	iré	189	ir
+529.	tenido	189	tener
+530.	culpa	189	culpa culpar
+531.	veras	188	veras
+532.	adónde	188	adónde
+533.	buscando	188	buscar
+534.	cuanto	187	cuanto
+535.	padres	186	padre
+536.	paz	185	paz
+537.	demonios	184	demonio
+538.	estará	184	estar
+539.	cual	183	cual
+540.	perdón	181	perdón
+541.	asi	181	así
+542.	jugar	181	jugar
+543.	pensando	179	pensar
+544.	esperar	179	esperar
+545.	sabemos	179	saber
+546.	recuerdo	179	recuerdo recordar
+547.	par	178	par
+548.	joven	178	joven
+549.	seguir	178	seguir
+550.	pueblo	178	pueblo
+551.	tenga	177	tener
+552.	caballeros	177	caballero
+553.	idiota	176	idiota
+554.	dio	176	dar
+555.	minuto	176	minuto
+556.	bebé	176	bebé
+557.	única	176	único
+558.	lejos	175	lejos
+559.	nuestras	175	nuestro
+560.	plan	174	plan
+561.	pienso	174	pensar
+562.	sentido	173	sentido sentir
+563.	dormir	173	dormir
+564.	digas	173	decir
+565.	palabra	173	palabra
+566.	correcto	172	correcto
+567.	control	172	control
+568.	vemos	172	ver
+569.	entiendes	172	entender
+570.	país	171	país
+571.	seis	171	seis
+572.	último	171	último
+573.	ésta	170	ésta
+574.	diga	170	decir
+575.	podrías	169	poder
+576.	pequeña	168	pequeña
+577.	cállate	167	callar
+578.	trato	167	trato tratar
+579.	rey	167	rey
+580.	sucede	167	suceder
+581.	muchachos	167	muchacho
+582.	jamás	167	jamás
+583.	cama	167	cama
+584.	srta	167	señorita
+585.	ayudar	166	ayudar
+586.	acerca	166	acerca acercar
+587.	di	165	dar
+588.	cambio	165	cambio cambiar
+589.	falta	164	falta faltar
+590.	hospital	164	hospital
+591.	lleva	164	llevar
+592.	presidente	163	presidente
+593.	mil	163	mil
+594.	gusto	162	gusto gustar
+595.	conoces	161	conocer
+596.	diciendo	161	decir
+597.	os	161	os
+598.	ido	160	ir
+599.	general	160	general
+600.	extraño	160	extraño extrañar
+601.	semanas	160	semana
+602.	coche	160	coche
+603.	peor	159	peor bien
+604.	mucha	159	mucho
+605.	disculpe	159	disculpar
+606.	diré	159	decir
+607.	anoche	159	anoche
+608.	perder	158	perder
+609.	vámonos	158	ir
+610.	nave	157	nave
+611.	cielo	157	cielo
+612.	habrá	157	haber
+613.	orden	157	orden
+614.	segura	156	seguro
+615.	querida	156	querida querido querer
+616.	niña	156	niña
+617.	increíble	155	increíble
+618.	además	155	además
+619.	deben	154	deber
+620.	libro	154	libro
+621.	calle	154	calle callar
+622.	café	154	café
+623.	piensas	153	pensar
+624.	hacemos	153	hacer
+625.	especial	153	especial
+626.	queremos	153	querer
+627.	irme	152	ir
+628.	perfecto	152	perfecto
+629.	buscar	152	buscar
+630.	odio	151	odio odiar
+631.	piensa	151	pensar
+632.	oficina	151	oficina
+633.	hablas	151	hablar habla
+634.	libre	151	libre
+635.	agente	150	agente
+636.	york	150	Nueva York jamón york
+637.	llamar	150	llamar
+638.	mala	150	malo mala
+639.	detrás	150	detrás
+640.	viste	149	ver
+641.	dile	149	decir
+642.	grandes	148	grande
+643.	recuerdas	148	recordar
+644.	real	148	real
+645.	estaban	147	estar
+646.	mía	147	mío
+647.	frente	147	frente
+648.	perdido	147	perder
+649.	llamo	147	llamar
+650.	muertos	146	muerto
+651.	millones	146	millón
+652.	asesino	146	asesino asesinar
+653.	sueño	145	sueño soñar
+654.	quisiera	145	querer
+655.	habría	145	haber
+656.	hará	144	hacer
+657.	viaje	143	viaje viajar
+658.	probablemente	143	probablemente
+659.	resto	143	resto
+660.	estaré	143	estar
+661.	maldición	143	maldición
+662.	lamento	142	lamento lamentar
+663.	muchacho	142	muchacho
+664.	avión	142	avión
+665.	ropa	142	ropa
+666.	fuerza	142	fuerza forzar
+667.	llamado	141	llamado llamar
+668.	oído	141	oído oír
+669.	dado	141	dado dar
+670.	encima	141	encima
+671.	negro	141	negro
+672.	usar	140	usar
+673.	información	140	información
+674.	uds	140	ustedes
+675.	preguntas	139	preguntar pregunta
+676.	tuvo	139	tener
+677.	secreto	139	secreto
+678.	vuelve	139	volver
+679.	miren	139	mirar
+680.	quieras	139	querer
+681.	haría	139	hacer
+682.	acaba	139	acabar
+683.	otras	138	otro
+684.	incluso	138	incluso
+685.	sientes	138	sentir sentar
+686.	deberíamos	138	deber
+687.	haz	137	hacer haz
+688.	decirte	137	decir
+689.	boca	137	boca
+690.	dolor	136	dolor
+691.	baño	136	baño bañar
+692.	adentro	136	adentro
+693.	profesor	136	profesor
+694.	habitación	135	habitación
+695.	daño	135	daño dañar
+696.	tuyo	135	tuyo
+697.	seas	135	ser
+698.	noticias	135	noticia
+699.	demás	134	demás
+700.	querido	134	querido querer
+701.	duro	134	duro durar
+702.	poner	134	poner
+703.	prueba	134	prueba probar
+704.	mire	133	mirar
+705.	tonto	133	tonto
+706.	campo	133	campo campar
+707.	siendo	133	ser
+708.	diez	133	diez
+709.	ése	132	ese
+710.	tranquilo	131	tranquilo
+711.	asunto	131	asunto
+712.	acabó	131	acabar
+713.	quédate	131	quedar
+714.	derecho	131	derecho
+715.	placer	131	placer
+716.	recuerda	131	recordar
+717.	estuve	131	estar
+718.	tratando	131	tratar
+719.	ejército	131	ejército
+720.	futuro	131	futuro
+721.	llevar	130	llevar
+722.	compañía	130	compañía
+723.	venido	130	venir
+724.	listos	130	listo
+725.	haremos	129	hacer
+726.	sitio	129	sitio
+727.	verlo	129	ver
+728.	puesto	129	puesto poner
+729.	atención	129	atención
+730.	sino	128	sino
+731.	cambiar	128	cambiar
+732.	error	128	error
+733.	blanco	127	blanco
+734.	raro	127	raro
+735.	palabras	127	palabra
+736.	llegó	127	llegar
+737.	sal	127	sal salir
+738.	pase	127	pasar
+739.	mente	127	mente
+740.	sistema	126	sistema
+741.	película	126	película
+742.	anda	126	andar
+743.	ello	126	ello
+744.	negocio	126	negocio negociar
+745.	novia	126	novia
+746.	permiso	125	permiso
+747.	creí	125	creer
+748.	suena	125	sonar
+749.	ocurre	125	ocurrir
+750.	oficial	125	oficial
+751.	espere	125	esperar
+752.	aire	125	aire
+753.	mató	124	matar
+754.	regresar	124	regresar
+755.	vio	124	ver
+756.	hazlo	123	hacer
+757.	trasero	122	trasero
+758.	grupo	122	grupo
+759.	entendido	122	entender
+760.	señorita	122	señorita
+761.	música	122	música
+762.	perra	122	perra
+763.	conoce	121	conocer
+764.	empezar	121	empezar
+765.	siente	121	sentir sentar
+766.	acabo	120	acabar
+767.	estúpido	120	estúpido
+768.	diferente	120	diferente
+769.	traje	120	traer traje
+770.	modo	120	modo
+771.	encontré	119	encontrar
+772.	mensaje	119	mensaje
+773.	llamada	119	llamada llamar
+774.	navidad	118	navidad
+775.	eras	118	ser
+776.	pena	118	pena penar
+777.	largo	118	largo largar
+778.	entra	118	entrar
+779.	piso	118	piso pisar
+780.	foto	118	foto
+781.	dijeron	118	decir
+782.	médico	117	médico
+783.	accidente	117	accidente
+784.	fuiste	117	ir ser
+785.	imposible	117	imposible
+786.	podríamos	116	poder
+787.	línea	116	línea
+788.	propia	116	propio
+789.	barco	116	barco
+790.	ganar	116	ganar
+791.	normal	115	normal
+792.	segundos	115	segundo
+793.	vive	115	vivir
+794.	mitad	114	mitad
+795.	quiera	114	querer
+796.	tras	114	tras
+797.	decirle	114	decir
+798.	lindo	114	lindo
+799.	funciona	114	funcionar
+800.	programa	113	programa
+801.	vine	113	venir
+802.	abre	113	abrir
+803.	sean	113	ser
+804.	pagar	113	pagar
+805.	fotos	113	foto
+806.	centro	113	centro centrar
+807.	supone	113	suponer
+808.	basura	112	basura
+809.	situación	112	situación
+810.	mejores	112	mejor
+811.	vienen	112	venir
+812.	encanta	112	encantar
+813.	marido	112	marido
+814.	personal	111	personal
+815.	maestro	111	maestro
+816.	hambre	111	hambre
+817.	ataque	111	ataque atacar
+818.	culo	111	culo
+819.	dale	111	dar
+820.	pie	111	pie
+821.	conseguir	111	conseguir
+822.	trabajando	111	trabajar
+823.	gracioso	111	gracioso
+824.	dejó	111	dejar
+825.	pudo	110	poder
+826.	derecha	110	derecha
+827.	izquierda	110	izquierda
+828.	próxima	110	próximo
+829.	pobre	110	pobre
+830.	respuesta	109	respuesta
+831.	tipos	109	tipo
+832.	sentir	109	sentir
+833.	tenías	109	tener
+834.	pude	109	poder
+835.	darle	109	dar
+836.	voz	109	voz
+837.	amiga	109	amiga
+838.	gustan	109	gustar
+839.	vista	109	vista ver
+840.	salvo	109	salvo salvar
+841.	loca	108	loco
+842.	hotel	108	hotel
+843.	hicieron	108	hacer
+844.	ten	108	tener
+845.	temo	108	temer
+846.	señal	108	señal
+847.	pelo	108	pelo pelar
+848.	llevo	108	llevar
+849.	ayer	108	ayer
+850.	das	108	dar
+851.	nena	108	nena
+852.	servicio	108	servicio
+853.	tren	107	tren
+854.	bonito	107	bonito
+855.	mes	107	mes
+856.	tendrá	107	tener
+857.	tendrás	107	tener
+858.	edad	107	edad
+859.	ellas	107	ellas
+860.	hermosa	107	hermoso
+861.	honor	106	honor
+862.	simplemente	106	simplemente
+863.	llamas	105	llamar llama
+864.	tengas	105	tener
+865.	corre	105	correr
+866.	baja	105	bajo baja
+867.	sol	105	sol
+868.	siéntate	105	sentar
+869.	dan	105	dar
+870.	humano	105	humano
+871.	divertido	105	divertido divertir
+872.	sexo	104	sexo
+873.	vuelto	104	vuelto volver
+874.	peligro	104	peligro peligrar
+875.	mesa	104	mesa
+876.	siguiente	104	siguiente
+877.	hablo	104	hablar
+878.	disculpa	104	disculpa disculpar
+879.	decirme	104	decir
+880.	caja	103	caja
+881.	negocios	103	negocio negociar
+882.	misión	103	misión
+883.	silencio	103	silencio
+884.	sale	103	salir
+885.	llegado	103	llegar
+886.	estaría	102	estar
+887.	regreso	102	regreso regresar
+888.	media	102	media medio
+889.	estan	101	estar
+890.	propio	101	propio
+891.	oro	101	oro orar
+892.	enseguida	101	enseguida
+893.	linda	100	lindo
+894.	prometo	100	prometer
+895.	esposo	100	esposo esposar
+896.	norte	99	norte
+897.	hubo	99	haber
+898.	juro	99	jurar
+899.	muerta	99	muerto morir
+900.	interesante	99	interesante
+901.	pensaba	99	pensar
+902.	busca	99	buscar busca
+903.	terminar	99	terminar
+904.	tendré	98	tener
+905.	completamente	98	completamente
+906.	cita	98	cita citar
+907.	siete	98	siete
+908.	cumpleaños	98	cumpleaños
+909.	abogado	98	abogado
+910.	alrededor	98	alrededor
+911.	cerebro	98	cerebro
+912.	porqué	97	porqué
+913.	llave	97	llave
+914.	santo	97	santo
+915.	hermoso	97	hermoso
+916.	necesario	97	necesario
+917.	edificio	97	edificio
+918.	irnos	97	ir
+919.	aun	97	aun
+920.	tendremos	97	tener
+921.	vayas	97	ir
+922.	doy	96	dar
+923.	trae	96	traer
+924.	salió	96	salir
+925.	ley	96	ley
+926.	ahi	96	ahí
+927.	verdadero	96	verdadero
+928.	pelea	96	pelea pelear
+929.	banco	96	banco
+930.	terrible	95	terrible
+931.	calma	95	calma calmar
+932.	cena	95	cena cenar
+933.	daré	95	dar
+934.	gobierno	95	gobierno
+935.	comprar	95	comprar
+936.	creen	94	creer crear
+937.	sargento	94	sargento
+938.	destino	94	destino
+939.	existe	94	existir
+940.	hacía	94	hacer
+941.	novio	93	novio
+942.	sala	93	sala
+943.	través	93	través
+944.	regalo	93	regalo regalar
+945.	iglesia	92	iglesia
+946.	decía	92	decir
+947.	cualquiera	92	cualquiera
+948.	excelente	92	excelente
+949.	esperen	92	esperar
+950.	deseo	92	deseo desear
+951.	alma	92	alma
+952.	diablo	92	diablo
+953.	deje	92	dejar
+954.	cuántos	92	cuántos
+955.	espada	92	espada
+956.	estábamos	92	estar
+957.	carne	92	carne
+958.	maravilloso	92	maravilloso
+959.	vidas	91	vida
+960.	sucedió	91	suceder
+961.	oí	91	oír
+962.	peligroso	91	peligroso
+963.	dirección	91	dirección
+964.	libertad	91	libertad
+965.	jesús	91	Jesús
+966.	ocurrió	91	ocurrir
+967.	veré	91	ver
+968.	sueños	91	sueño
+969.	pudiera	91	poder
+970.	detective	90	detective
+971.	sorpresa	90	sorpresa
+972.	tuya	90	tuyo
+973.	pies	90	pie
+974.	club	90	club
+975.	terminado	90	terminar
+976.	infierno	90	infierno
+977.	creía	90	creer
+978.	luna	90	luna
+979.	salvar	90	salvar
+980.	carta	90	carta
+981.	estés	90	estar
+982.	cielos	89	cielo
+983.	teniente	89	teniente
+984.	encuentra	89	encontrar
+985.	veamos	89	ver
+986.	quise	89	querer
+987.	escúchame	89	escuchar
+988.	necesitan	89	necesitar
+989.	ambos	89	ambos ambo
+990.	decisión	89	decisión
+991.	enemigo	89	enemigo
+992.	hicimos	89	hacer
+993.	dulce	88	dulce
+994.	pruebas	88	prueba probar
+995.	querías	88	querer
+996.	abuelo	88	abuelo
+997.	totalmente	88	totalmente
+998.	mirando	88	mirar
+999.	vayan	88	ir
+1000.	carrera	88	carrera

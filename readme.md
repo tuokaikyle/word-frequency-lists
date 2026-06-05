@@ -48,3 +48,15 @@ https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Spanish4001-5000
 https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/es/es_50k.txt
 es_5k.txt
 CC-by-sa-4.0
+
+## zh
+
+https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm#article
+25 亿字语料汉字字频表 邢红兵
+仅供研究者进行汉字及相关研究之用。
+blcu_5000.csv
+
+https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=TO
+汉字单字字频总表：Combined character frequency list of Classical and Modern Chinese 笪骏
+They are provided here for research and teaching/learning purposes only. Any commercial use of the lists should have prior written permission from the author.
+mtsu_5000.tsv

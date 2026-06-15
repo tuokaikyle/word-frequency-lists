@@ -1,8 +1,15 @@
 -- produce lexique4_top_5000.tsv
-SELECT "1_Mot", "4_Lemme", "5_Cgram", "7_Genre", "10_FreqMot" 
+SELECT
+    ROW_NUMBER() OVER (ORDER BY "10_FreqMot" DESC) AS id,
+    "1_Mot",
+    "4_Lemme",
+    "5_Cgram",
+    "7_Genre",
+    "10_FreqMot",
+    "12_FreqLemme"
 FROM public.lexique4
-order by "10_FreqMot" desc 
-limit 5000
+ORDER BY "10_FreqMot" DESC
+LIMIT 5000;
 
 -- count distinct lemmes: 2921
 WITH top_words AS (
